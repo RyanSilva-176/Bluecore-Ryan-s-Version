@@ -1,0 +1,111 @@
+.navbar {
+  opacity: 0.95;
+}
+
+.myBtn {
+  text-decoration: none;
+  font-weight: bold;
+  height: 56px;
+  border: none;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
+
+.bg-color-default {
+  background-color: #f1f2fb;
+}
+
+.bg-color-secondary {
+  background-color: #a09ed5;
+}
+
+.bg-color-footer {
+  background-color: #253359;
+}
+
+.text {
+  color: #5f5f81;
+}
+
+.text-bold {
+  font-weight: bold;
+  color: #4a4a6f;
+}
+
+.icon {
+  color: #00a3ff;
+  font-size: 60px;
+}
+
+.divider-blue {
+  background-color: #00a3ff;
+  height: 12px;
+  width: 90px;
+  margin: 0 auto;
+}
+
+.divider-orange {
+  background-color: #ff7c60;
+  height: 12px;
+  width: 90px;
+  margin: 0 auto;
+}
+
+.header-default {
+  font-weight: bold;
+  color: #4a4a6f;
+}
+
+.header-blue {
+  font-weight: bold;
+  color: #253359;
+}
+
+.header-orange {
+  font-weight: bold;
+  color: #ff7c60;
+}
+
+.color-blue{
+  color: #00a3ff;
+}
+
+.color-light-blue {
+  color: #00e0d2;
+}
+
+.color-yellow {
+  color: #eec87c;
+}
+
+.color-orange {
+  color: #ff7c60;
+}
+
+.client-logo {
+  height: 75px;
+  margin: 1rem;
+}
+
+.bg-blue-gradient {
+  background-image: linear-gradient(to right, #3ebaea, #3587b9, #23376d);
+}
+
+.border{
+  height: 6px;
+  background-color: #dee2e6;
+}
+
+.contact-form{
+  margin: 0 auto;
+  width: 500px;
+}
+
+.project-description{
+  height: 6em;
+}
+.description-form{
+  font-size: 12px;
+}
